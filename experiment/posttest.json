@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Molecular weight of non-volatile solute can be determined by ........",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Victor-Meyer's method",
+        "b": "Graham's law of diffusion",
+        "c": "Raoult's law",
+        "d": "Gay Lussac's law"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The depression of freezing point of a solution is .......",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Inversely proportional to molarity of solution",
+        "b": "Inversely proportional to molal concentration of solute",
+        "c": "Directly proportional to molal concentration of solute",
+        "d": "Directly proportional to molarity of solution"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one of the following solvent has highest freezing point?",
+      "answers": {
+        "a": "Chloroform",
+        "b": "Carbon Tetrachloride",
+        "c": "Carbon disulfide",
+        "d": "Benzene"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
