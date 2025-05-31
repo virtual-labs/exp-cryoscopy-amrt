@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following is not a colligative property?",
+      "answers": {
+        "a": "Freezing point depression",
+        "b": "Density",
+        "c": "Lowering of vapour pressure",
+        "d": "Boiling point elevation"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Colligative properties of the solution depends on.......",
+      "answers": {
+        "a": "Number of moles of solvent only",
+        "b": "Nature of solute",
+        "c": "Number of particles present in the solution",
+        "d": "Nature of solvent"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
