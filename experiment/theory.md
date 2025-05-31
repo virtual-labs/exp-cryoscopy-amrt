@@ -33,14 +33,14 @@ Where $\Delta T_f$ is the depression of the freezing point; m is the molality of
 The value of van 't Hoff factor depends upon the number of individual ions formed in solution. i.e:
 
 - i = 1 for sugar in water.
-- i = 2 for sodium chloride ( $\ce{NaCl}$ ) in water, due to the its full dissociation into Na+ and $\ce{Cl-}$ ions.
-- i = 3 for calcium chloride ( $\ce{CaCl2}$ ) in water, due to its full dissociation $\ce{Ca^2+}$ and $\ce{2Cl-}$ ions.
+- i = 2 for sodium chloride ( NaCl ) in water, due to the its full dissociation into Na<sup>+</sup> and Cl<sup>−</sup> ions.
+- i = 3 for calcium chloride ( CaCl<sub>2</sub> ) in water, due to its full dissociation Ca<sup>2+</sup> and 2Cl<sup>−</sup> ions.
 
 The van 't Hoff factor is a measure of the colligative effect (the total number of particles) of the solute in solution. The value of i is usually unity for all non-electrolytes, greater than unity for electrolytes, but is less than unity for compounds that associate in solution.
 
 $K_f$ is the molal freezing point depression constant or cryoscopic constant of the solvent, and it is depends upon the properties of the solvent. Which can be calculated as:
 
-$$K_f=R.T^2_f.M/\Delta H_f$
+$$K_f=R.T^2_f.M/ \Delta H_f$$
 
  Where, R is the gas constant; $T_F$ is the freezing temperature of the pure solvent (in K); M is the molar mass of the solvent; and $\Delta H_f$ is the heat of fusion per mole of solvent. Note: although the above equation yields a positive value for $K_f$ by convention $K_f$ is represented as a negative value, resulting in observed and calculated negative values for $\Delta T_f$.
 
