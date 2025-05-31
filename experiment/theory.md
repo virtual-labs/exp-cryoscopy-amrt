@@ -16,7 +16,7 @@ Raoult's law:
 The vapour pressure of a solution of a non-volatile solute is equal to the product of the vapour pressure of the pure solvent at that temperature and its mole fraction.
 In equilibrium, the total vapour pressure, $\rho$ of the solution is:
 
-$$\rho = \rho^\*_A X_A + \rho^*_B X_B$$
+$$\rho = \rho^*_A X_A + \rho^*_B X_B$$
 
 As the number of components in a solution increases, the individual vapour pressure decreases, i.e. the mole fraction of each component is indirectly proportional to each additional component and the individual vapour pressure for each component is:
 
