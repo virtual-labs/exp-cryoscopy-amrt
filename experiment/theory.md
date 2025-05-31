@@ -20,9 +20,9 @@ $$\rho = \rho^*_A X_A + \rho^*_B X_B$$
 
 As the number of components in a solution increases, the individual vapour pressure decreases, i.e. the mole fraction of each component is indirectly proportional to each additional component and the individual vapour pressure for each component is:
 
-$$\rho_i = \rho^\*X_i$$
+$$\rho_i = \rho^*X_i$$
 
-Where, $\rho_i$ is the partial pressure of the component i in the solution; $\rho^\*_i$ is the vapour pressure of the pure component i; and $X_i$ is the mole fraction of the component i in the solution (in mixture).
+Where, $\rho_i$ is the partial pressure of the component i in the solution; $\rho^*_i$ is the vapour pressure of the pure component i; and $X_i$ is the mole fraction of the component i in the solution (in mixture).
 
 In addition to measuring the difference (a procedure called cryoscopy) the depression in freezing point can be found using the following equation if the solute is known:
 
@@ -30,11 +30,11 @@ $$\Delta T_f=K_f.i.m$$
 
 Where $\Delta T_f$ is the depression of the freezing point; m is the molality of the solution; and i is the van 't Hoff factor. Molality of a solution is the ratio of the  amount of substance of solute and the mass of  solvent in kg.
 
-The value of van ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“t Hoff factor depends upon the number of individual ions formed in solution. i.e:
+The value of van 't Hoff factor depends upon the number of individual ions formed in solution. i.e:
 
 - i = 1 for sugar in water.
-- i = 2 for sodium chloride (NaCl) in water, due to the its full dissociation into Na+ and $\ce{Cl^-}$ ions.
-- i = 3 for calcium chloride (CaCl2) in water, due to its full dissociation $\ce{Ca^2+}$ and $\ce{2Cl^-}$ ions.
+- i = 2 for sodium chloride ( $\ce{NaCl}$ ) in water, due to the its full dissociation into Na+ and $\ce{Cl-}$ ions.
+- i = 3 for calcium chloride ( $\ce{CaCl2}$ ) in water, due to its full dissociation $\ce{Ca^2+}$ and $\ce{2Cl-}$ ions.
 
 The van 't Hoff factor is a measure of the colligative effect (the total number of particles) of the solute in solution. The value of i is usually unity for all non-electrolytes, greater than unity for electrolytes, but is less than unity for compounds that associate in solution.
 
